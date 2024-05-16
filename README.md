@@ -10,7 +10,7 @@
 
 📌IT20616588 - Amaraweera O.G
 
-#### Click here to video demonstation👉: https://drive.google.com/file/d/1J4GUg-mcIcxgEvQ2zz50SvbhF2nWfL7q/view?usp=sharing
+#### Click here to watch the video demonstation👉: https://drive.google.com/file/d/1J4GUg-mcIcxgEvQ2zz50SvbhF2nWfL7q/view?usp=sharing
 
 
 
