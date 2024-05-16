@@ -1,8 +1,21 @@
 # CTSE_Assingment3_AR-Dinosaur
 
-# Group Details
-IT20637378 - Thilakarathna S.A.Y.R 
-IT20651510 - Sooriyabandara H.M.T.S 
-IT20623418 - Jayasekara J.M.P.N.K 
-IT20616588 - Amaraweera O.G 
+## Member Details
+
+📌Chandrarathna M.G.D.P.M.B - Touarist Forum and Thread Management
+IT20653590
+
+📌Sooriyabandara H.M.T.S - Blog Post Management
+IT20651510
+
+📌Thilakarathna S.A.Y.R - Trip Plan Management
+IT20637378
+
+📌Bandara S.M.D.S - Accomadation Management
+IT20653286
+
+
+
+
+
 
