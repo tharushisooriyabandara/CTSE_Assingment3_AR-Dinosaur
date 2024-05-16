@@ -2,17 +2,13 @@
 
 ## Member Details
 
-📌Sooriyabandara H.M.T.S 
-IT20651510
+📌IT20651510 - Sooriyabandara H.M.T.S 
 
-📌Thilakarathna S.A.Y.R
-IT20637378
+📌IT20637378 - Thilakarathna S.A.Y.R 
 
-📌Jayasekara J.M.P.N.K
-IT20623418
+📌IT20623418 - Jayasekara J.M.P.N.K 
 
-📌Amaraweera O.G 
-IT20616588
+📌IT20616588 - Amaraweera O.G
 
 
 
